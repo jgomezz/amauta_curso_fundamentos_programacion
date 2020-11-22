@@ -5,5 +5,8 @@ Algoritmo IdentificarDiaSemana
 	//   Martes -> 2
 	//   Domingo -> 7
 	
-	
+	Escribir  "Inrgesar el número del dia de la semana"
+	Leer dia_semana
+	Escribir "El dato ingresado es " , dia_semana
+
 FinAlgoritmo
