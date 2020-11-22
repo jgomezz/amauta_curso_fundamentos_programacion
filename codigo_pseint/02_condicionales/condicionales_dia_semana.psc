@@ -8,5 +8,13 @@ Algoritmo IdentificarDiaSemana
 	Escribir  "Inrgesar el número del dia de la semana"
 	Leer dia_semana
 	Escribir "El dato ingresado es " , dia_semana
-
+	
+	Si dia_semana == 7 Entonces
+		Escribir "Es domingo"
+	SiNo
+		Escribir "No es domingo"
+	Fin Si
+	
+	
+	
 FinAlgoritmo
