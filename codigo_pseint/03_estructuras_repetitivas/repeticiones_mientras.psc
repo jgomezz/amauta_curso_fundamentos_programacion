@@ -8,7 +8,7 @@ Algoritmo estructura_repetitiva_mientras
 	Leer numero
 	
 	// Mientras el numero sea mayor de 10 Imprimir 
-	// el numero 
+	// el numero  
 	Mientras numero > 0 Hacer
 		// Mostrar el valor del numero
 		Escribir numero
